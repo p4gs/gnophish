@@ -1,4 +1,4 @@
-GnoPhish, a portmanteau of gnostic (*["knowledge, especially esoteric knowledge"](https://www.dictionary.com/browse/gnostic)*) and phish, is a tool meant to raise awareness among people at an organization about phishing features and techniques so they can better spot, avoid, and report phishing attempts to their security team.
+GnoPhish (**noh**-fish), a portmanteau of gnostic (*["knowledge, especially esoteric knowledge"](https://www.dictionary.com/browse/gnostic)*) and phish, is a tool meant to raise awareness among people at an organization about phishing features and techniques so they can better spot, avoid, and report phishing attempts to their security team. There is a fully intended pun behind the name, too: "no more phish, please!"
 
 ![GnoPhish Logo](gnophish-logo.jpeg)
 
